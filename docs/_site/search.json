@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "All posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nInvariance Testing using lavaan\n\n\n\nsem\n\n\ninvariance\n\n\nlavaan\n\n\n\n\n\n\n\nEsteban Montenegro\n\n\nSep 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Invariance Testing using lavaan",
+    "section": "",
+    "text": "This is my first official post in my personal blog, and I wanted to dedicate this first post to talk about invariance testing in Structural Equation Modeling (SEM). But why? Because it is a popular topic and I get to answer the same questions all over again. This made me think, that probably the first post should be about this topic."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m an Assistant Professor at the Psychology and Child Development Department. I focus my research ideas in problems related to quantitative psychology. I’m always doing research on latent variable modeling. I applied my passion for statistics in topics related to healthy aging and dementia.\nWhen I’m not doing something dorky, I enjoy hiking with my lovely wife and my dog. I used to play guitar and bass guitar, but academia is a place of many projects."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nTexas Tech University| Lubbock, TX| PhD in Educational Psychology | May 2020\nUniversity of Costa Rica | San Jose, Costa Rica| B.S. in Psychology | March 2012"
+  },
+  {
+    "objectID": "posts/changeName/index.html",
+    "href": "posts/changeName/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#preliminary-words",
+    "href": "posts/post-with-code/index.html#preliminary-words",
+    "title": "Invariance Testing using lavaan",
+    "section": "",
+    "text": "This is my first official post in my personal blog, and I wanted to dedicate this first post to talk about invariance testing in Structural Equation Modeling (SEM). But why? Because it is a popular topic and I get to answer the same questions all over again. This made me think, that probably the first post should be about this topic."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#what-is-invariance-testing",
+    "href": "posts/post-with-code/index.html#what-is-invariance-testing",
+    "title": "Invariance Testing using lavaan",
+    "section": "What is invariance testing?",
+    "text": "What is invariance testing?\nWhen asking questions about differences between groups or modeling longitudinal data we need to test if our indicators are equivalent. Why again? Because we work with latent variables, and these type of variables are not exactly present in your data set. They are built on assumptions made by the model, hence we need to test our assumptions and beliefs.\nThis is also true for other types of statistical models, but in the case of SEM is specially important due to the presence of implicit variables.\n\n1 + 1\n\n[1] 2"
+  }
+]

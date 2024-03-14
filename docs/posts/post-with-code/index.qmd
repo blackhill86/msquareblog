@@ -1,0 +1,21 @@
+---
+title: "Invariance Testing using `lavaan`"
+author: "Esteban Montenegro"
+date: "2023-09-06"
+categories: [sem, invariance, lavaan]
+image: "image.jpg"
+---
+
+## Preliminary words
+
+This is my first official post in my personal blog, and I wanted to dedicate this first post to talk about invariance testing in Structural Equation Modeling (SEM). But why? Because it is a popular topic and I get to answer the same questions all over again. This made me think, that probably the first post should be about this topic.
+
+## What is invariance testing?
+
+When asking questions about differences between groups or modeling longitudinal data we need to test if our indicators are equivalent. Why again? Because we work with latent variables, and these type of variables are not exactly present in your data set. They are built on assumptions made by the model, hence we need to test our assumptions and beliefs.
+
+This is also true for other types of statistical models, but in the case of SEM is specially important due to the presence of *implicit* variables.
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "$m^2$ = (s)tats"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: mastodon
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+       light: [sandstone, theme.scss]
+       dark: [cyborg, theme.scss]
+    css: styles.css
+
+editor: visual
+

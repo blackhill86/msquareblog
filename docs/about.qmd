@@ -1,0 +1,43 @@
+---
+title: "About me"
+about:
+  template: trestles
+  image: IMG_2.jpg
+  image-shape: round
+  image-width: 9em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/blackhill86
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/esteban-montenegro-montenegro-phd-930141143 
+    - icon: mastodon
+      text: mastodon
+      href: https://fediscience.org/@montenegro
+    - icon: envelope
+      text: email
+      href: emontenegro1@csustan.edu
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+I'm an Assistant Professor at the Psychology and Child Development
+Department. I focus my research ideas in problems related to
+quantitative psychology. I'm always doing research on latent variable
+modeling. I applied my passion for statistics in topics related to
+healthy aging and dementia.
+
+When I'm not doing something dorky, I enjoy hiking with my lovely wife
+and my dog. I used to play guitar and bass guitar, but academia is a
+place of many projects.
+
+## Education
+
+Texas Tech University\| Lubbock, TX\| PhD in Educational Psychology \|
+May 2020
+
+University of Costa Rica \| San Jose, Costa Rica\| B.S. in Psychology \|
+March 2012
+
